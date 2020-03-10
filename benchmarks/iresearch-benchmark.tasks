@@ -17,4 +17,7 @@ Fuzzy2: shack~2
 Or4High: about ref from cite # freq=91907 freq=541190 freq=359428 freq=265368
 Or6High4Med2Low: about ref from cite http which roman short europe party rapid donald # freq=91907 freq=541190 freq=359428 freq=265368 freq=389790 freq=253402 freq=31137 freq=31137 freq=31053 freq=30836 freq=4972 freq=4940
 MinMatch2High2Med: 2 about ref roman short # freq=91907 freq=541190 freq=31137 freq=31137
+HighNGram: "7 from ref name about south" # freq=359428|238640|541190|54310|55802
+MedNGram: "6 second books id 1929 federal" # freq=54014|23116|51894|5879|15487
+LowNGram: "4 house's year demographics ref projectile" # freq=140|3113|5408|175324|484
 
